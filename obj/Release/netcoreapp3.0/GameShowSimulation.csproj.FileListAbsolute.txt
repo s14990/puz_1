@@ -1,0 +1,17 @@
+C:\Users\dimon\source\repos\GameShowSimulation\bin\Release\netcoreapp3.0\GameShowSimulation.exe
+C:\Users\dimon\source\repos\GameShowSimulation\bin\Release\netcoreapp3.0\GameShowSimulation.deps.json
+C:\Users\dimon\source\repos\GameShowSimulation\bin\Release\netcoreapp3.0\GameShowSimulation.runtimeconfig.json
+C:\Users\dimon\source\repos\GameShowSimulation\bin\Release\netcoreapp3.0\GameShowSimulation.runtimeconfig.dev.json
+C:\Users\dimon\source\repos\GameShowSimulation\bin\Release\netcoreapp3.0\GameShowSimulation.dll
+C:\Users\dimon\source\repos\GameShowSimulation\bin\Release\netcoreapp3.0\GameShowSimulation.pdb
+C:\Users\dimon\source\repos\GameShowSimulation\obj\Release\netcoreapp3.0\GameShowSimulation.csprojAssemblyReference.cache
+C:\Users\dimon\source\repos\GameShowSimulation\obj\Release\netcoreapp3.0\MainWindow.g.cs
+C:\Users\dimon\source\repos\GameShowSimulation\obj\Release\netcoreapp3.0\App.g.cs
+C:\Users\dimon\source\repos\GameShowSimulation\obj\Release\netcoreapp3.0\GameShowSimulation_MarkupCompile.cache
+C:\Users\dimon\source\repos\GameShowSimulation\obj\Release\netcoreapp3.0\GameShowSimulation_MarkupCompile.lref
+C:\Users\dimon\source\repos\GameShowSimulation\obj\Release\netcoreapp3.0\MainWindow.baml
+C:\Users\dimon\source\repos\GameShowSimulation\obj\Release\netcoreapp3.0\GameShowSimulation.g.resources
+C:\Users\dimon\source\repos\GameShowSimulation\obj\Release\netcoreapp3.0\GameShowSimulation.AssemblyInfoInputs.cache
+C:\Users\dimon\source\repos\GameShowSimulation\obj\Release\netcoreapp3.0\GameShowSimulation.AssemblyInfo.cs
+C:\Users\dimon\source\repos\GameShowSimulation\obj\Release\netcoreapp3.0\GameShowSimulation.dll
+C:\Users\dimon\source\repos\GameShowSimulation\obj\Release\netcoreapp3.0\GameShowSimulation.pdb
